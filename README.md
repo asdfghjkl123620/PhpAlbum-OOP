@@ -1,2 +1,7 @@
-# PhpAlbum-OOP
-使用php物件導向製作的相簿管理系統
+# Photo-album-OOP
+
+==========================
+
+用**php物件導向**寫成的php相簿專案
+
+使用**Blog Post HTML Template (http://startbootstrap.com)**
